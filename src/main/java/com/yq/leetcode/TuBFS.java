@@ -7,7 +7,7 @@ import java.util.Queue;
  * @author BaoLei Li
  * @date 2022/8/16
  **/
-public class TuGuangDuTraverse {
+public class TuBFS {
 
     public static class Graph { // 无向图
         private int v; // 顶点的个数
